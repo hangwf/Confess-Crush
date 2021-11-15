@@ -1,20 +1,22 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    titleWeb: "Tình iu lồng cháy",
+    introTitle: 'Mai Thanh Minh',
+    introDesc: `Chưa bao giờ em nghĩ rằng anh là gu của em đâu
+    Chưa bao giờ em nghĩ rằng em will fall in love with you (dịch cho Minh hong biếc là rơi vào lưới tình🙄🙄)
+    Mà giọng nói ngọt ngào cất ra từ headphone
+    Say đắm cồn cào lỡ yêu rồi mất khôn🙄🙄,
+    btnIntro: 'Hí hí :33',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên :33',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'xế sao bạng lại yêu mềnh nhò :33',
+    btnReply: 'Chu chu :33',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'Yêu Minh nhiêu nhắm nhắm nhuôn ó :33 ',
+    messDesc: 'Minh dỗi Minh buồng Minh cáu xì mềnh vẫn yêu Minhhh :33,
+    nhưng mò hong muốn xấy Minh buồng với suy nghỉ nhiều đouuu🥺🥺hong chỉ buồn bé rồi suy nghỉ mà bất cứ chuyện gì củng vậy mềnh hongg muốn xấy Minhh buồn như xế 🥺🥺
+    buồng xíu xíu hoiii nhó :(( có bé ở bên Minhh mò 🥺🥺 ôm ôm xương xương nào ❤️❤️.',
+    btnAccept: 'xem xongg gòiii xì call ngay cho tuii đi xôi :33',
+    messLink: 'https://www.facebook.com/messages/t/100032861798311' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
