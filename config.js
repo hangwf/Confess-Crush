@@ -2,10 +2,10 @@ const CONFIG = {
     titleWeb: "Tình iu lồng cháy",
     introTitle: 'Mai Thanh Minh',
     introDesc: `Chưa bao giờ em nghĩ rằng anh là gu của em đâu
-    Chưa bao giờ em nghĩ rằng em will fall in love with you (dịch cho Minh hong biếc là rơi vào lưới tình🙄🙄)
+    Chưa bao giờ em nghĩ rằng em will fall in love with you(dịch cho Minh hong biếc là rơi vào lưới tình🙄🙄)
     Mà giọng nói ngọt ngào cất ra từ headphone
     Say đắm cồn cào lỡ yêu rồi mất khôn🙄🙄,
-    btnIntro: 'Hí hí :33',
+    btnIntro: 'Híhí:33',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên :33',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy',
     btnYes: 'Thích lắm <33',
